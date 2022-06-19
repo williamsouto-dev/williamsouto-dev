@@ -17,6 +17,7 @@ I am currently working in the financial sector of a digital bank and I use the f
 ![Java](https://img.shields.io/badge/Java-de4341?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-4EAA25?style=flat&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0175C2?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-0175C2?style=flat&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-9e2220?style=flat&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-f28741?style=flat&logo=amazon-aws&logoColor=white)
@@ -51,10 +52,16 @@ I am currently working in the financial sector of a digital bank and I use the f
 
 <hr/>
 
-### What am i studying
+### What am i studying <img src="./img/study.gif" style="margin-left: 5px">
 
 - Deepening my knowledge in aws (DevOps)
+- Event-driven architecture
 - Machine Learning
+
+### Some curiosities
+
+- I really like reading books <img src="./img/abc_book.gif" width="30" style="vertical-align: bottom">
+- I am fascinated by the world of 2D animation <img src="./img/gokurun.gif" width="30" style="vertical-align: bottom; margin-left: 5px">
 
 ### Where to find me
 
@@ -62,6 +69,8 @@ I am currently working in the financial sector of a digital bank and I use the f
     <a href="https://github.com/williamsouto-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/william-souto-180004a6" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=williamsouto-dev)
 
 <img src="./img/end.gif" width="400" style="vertical-align: bottom">
 
