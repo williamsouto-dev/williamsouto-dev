@@ -7,6 +7,9 @@ I am passionate and enthusiastic about technology, always in search of knowledge
 
 <hr/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## About my career
 
 
@@ -21,6 +24,9 @@ I am currently working in the financial sector of a digital bank and I use the f
 ![Redis](https://img.shields.io/badge/Redis-9e2220?style=flat&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-f28741?style=flat&logo=amazon-aws&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0175C2?style=flat&logo=flutter&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node-1c3e23?style=flat&logo=node.js&logoColor=white)
 
 
 ![Docker](https://img.shields.io/badge/Docker-2391e6?style=flat&logo=docker&logoColor=white)
@@ -29,6 +35,7 @@ I am currently working in the financial sector of a digital bank and I use the f
 ![Sonar](https://img.shields.io/badge/Sonar-2391e6?style=flat&logo=sonarqube&logoColor=white)
 ![Jfrog](https://img.shields.io/badge/Jfrog-41bf47?style=flat&logo=jfrog&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-022f38?style=flat&logo=gradle&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-e94e31?style=flat&logo=rabbitmq&logoColor=white)
 
 <hr/>
 
@@ -43,6 +50,7 @@ I am currently working in the financial sector of a digital bank and I use the f
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Jquery](https://img.shields.io/badge/Jquery-005aa2?style=flat&logo=jquery&logoColor=F7DF1E)
 ![Angular](https://img.shields.io/badge/Angular-bd002e?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-58c4dc?style=flat&logo=react&logoColor=white)
 
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -56,7 +64,7 @@ I am currently working in the financial sector of a digital bank and I use the f
 
 - Deepening my knowledge in aws (DevOps)
 - Event-driven architecture
-- Machine Learning
+- Raspberry pi and IoT
 
 ### Some curiosities
 
