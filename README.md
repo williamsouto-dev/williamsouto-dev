@@ -8,6 +8,12 @@ I am passionate and enthusiastic about technology, always in search of knowledge
 <hr/>
 
 <!--START_SECTION:waka-->
+
+```txt
+Dart   2 mins          █████████████████████████   99.62 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+```
+
 <!--END_SECTION:waka-->
 
 ## About my career
