@@ -10,11 +10,11 @@ I am passionate and enthusiastic about technology, always in search of knowledge
 <!--START_SECTION:waka-->
 
 ```txt
-Dart           2 hrs 14 mins   █████████████░░░░░░░░░░░░   51.95 %
-SQL            41 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-Java           35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
-YAML           21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-XML            14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Dart           3 hrs 1 min     ████████████▒░░░░░░░░░░░░   49.34 %
+SQL            1 hr 35 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.83 %
+Java           43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+YAML           21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+XML            14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
