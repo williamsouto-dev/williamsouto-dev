@@ -10,8 +10,7 @@ I am passionate and enthusiastic about technology, always in search of knowledge
 <!--START_SECTION:waka-->
 
 ```txt
-SQL    4 mins          ███████████████████████▒░   93.05 %
-Java   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
