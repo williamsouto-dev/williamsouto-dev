@@ -10,7 +10,11 @@ I am passionate and enthusiastic about technology, always in search of knowledge
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   7 mins          ████████░░░░░░░░░░░░░░░░░   32.13 %
+JSON         4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
+SQL          4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.73 %
+Docker       3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+TypeScript   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
 ```
 
 <!--END_SECTION:waka-->
