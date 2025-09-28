@@ -10,11 +10,11 @@ I am passionate and enthusiastic about technology, always in search of knowledge
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   54 mins         █████████████░░░░░░░░░░░░   51.43 %
-JSON         26 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
-Java         21 mins         █████░░░░░░░░░░░░░░░░░░░░   20.06 %
-textmate     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+JavaScript   1 hr 10 mins    █████████████▓░░░░░░░░░░░   54.01 %
+JSON         31 mins         ██████░░░░░░░░░░░░░░░░░░░   24.03 %
+Java         21 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
+SQL          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+textmate     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
